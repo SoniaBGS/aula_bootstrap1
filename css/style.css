@@ -1,0 +1,25 @@
+body{
+    font: 20px Arial, Sans-Serif;
+}
+
+.navbar {
+    background-color: bisque;
+    text-align: right;
+}
+
+.quem-somos{
+    background-color: rgb(233, 152, 47);
+    color: whitesmoke;
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.programas{
+    background-color: burlywood;
+    color: whitesmoke;
+}
+.contatos{
+    background-color: rgb(156, 126, 61);
+    color: whitesmoke;
+}
